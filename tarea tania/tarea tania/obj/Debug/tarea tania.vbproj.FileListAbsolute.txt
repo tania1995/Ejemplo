@@ -1,0 +1,9 @@
+D:\tarea tania\tarea tania\bin\Debug\tarea tania.exe.config
+D:\tarea tania\tarea tania\bin\Debug\tarea tania.exe
+D:\tarea tania\tarea tania\bin\Debug\tarea tania.pdb
+D:\tarea tania\tarea tania\bin\Debug\tarea tania.xml
+D:\tarea tania\tarea tania\obj\Debug\tarea_tania.Resources.resources
+D:\tarea tania\tarea tania\obj\Debug\tarea tania.vbproj.GenerateResource.Cache
+D:\tarea tania\tarea tania\obj\Debug\tarea tania.exe
+D:\tarea tania\tarea tania\obj\Debug\tarea tania.xml
+D:\tarea tania\tarea tania\obj\Debug\tarea tania.pdb

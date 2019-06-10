@@ -1,0 +1,30 @@
+C:\Users\Liseth\Documents\C++\Tarea\Tarea\bin\Debug\Tarea.exe.config
+C:\Users\Liseth\Documents\C++\Tarea\Tarea\bin\Debug\Tarea.exe
+C:\Users\Liseth\Documents\C++\Tarea\Tarea\bin\Debug\Tarea.pdb
+C:\Users\Liseth\Documents\C++\Tarea\Tarea\obj\Debug\Tarea.csprojResolveAssemblyReference.cache
+C:\Users\Liseth\Documents\C++\Tarea\Tarea\obj\Debug\Tarea.Form1.resources
+C:\Users\Liseth\Documents\C++\Tarea\Tarea\obj\Debug\Tarea.Properties.Resources.resources
+C:\Users\Liseth\Documents\C++\Tarea\Tarea\obj\Debug\Tarea.csproj.GenerateResource.Cache
+C:\Users\Liseth\Documents\C++\Tarea\Tarea\obj\Debug\Tarea.exe
+C:\Users\Liseth\Documents\C++\Tarea\Tarea\obj\Debug\Tarea.pdb
+C:\Users\Pc01\Desktop\Tarea\Tarea\bin\Debug\Tarea.exe.config
+C:\Users\Pc01\Desktop\Tarea\Tarea\obj\Debug\Tarea.exe
+C:\Users\Pc01\Desktop\Tarea\Tarea\obj\Debug\Tarea.pdb
+C:\Users\Pc01\Desktop\Tarea reynaldo\Tarea\bin\Debug\Tarea.exe.config
+C:\Users\Pc01\Desktop\Tarea reynaldo\Tarea\obj\Debug\Tarea.exe
+C:\Users\Pc01\Desktop\Tarea reynaldo\Tarea\obj\Debug\Tarea.pdb
+C:\Users\DELL\Downloads\Tarea reynaldo\Tarea\bin\Debug\Tarea.exe.config
+C:\Users\DELL\Downloads\Tarea reynaldo\Tarea\obj\Debug\Tarea.exe
+C:\Users\DELL\Downloads\Tarea reynaldo\Tarea\obj\Debug\Tarea.pdb
+C:\Users\DELL\Downloads\Tarea reynaldo\Tarea\bin\Debug\Tarea.exe
+C:\Users\DELL\Downloads\Tarea reynaldo\Tarea\bin\Debug\Tarea.pdb
+C:\Users\DELL\Downloads\Tarea reynaldo\Tarea\obj\Debug\Tarea.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Downloads\Tarea reynaldo\Tarea\obj\Debug\Tarea.Form1.resources
+C:\Users\DELL\Downloads\Tarea reynaldo\Tarea\obj\Debug\Tarea.Properties.Resources.resources
+C:\Users\DELL\Downloads\Tarea reynaldo\Tarea\obj\Debug\Tarea.csproj.GenerateResource.Cache
+C:\Users\DELL\Downloads\Tarea Tania\Tarea\bin\Debug\Tarea.exe.config
+C:\Users\DELL\Downloads\Tarea Tania\Tarea\obj\Debug\Tarea.exe
+C:\Users\DELL\Downloads\Tarea Tania\Tarea\obj\Debug\Tarea.pdb
+D:\tarea tania\Tarea\bin\Debug\Tarea.exe.config
+D:\tarea tania\Tarea\obj\Debug\Tarea.exe
+D:\tarea tania\Tarea\obj\Debug\Tarea.pdb
