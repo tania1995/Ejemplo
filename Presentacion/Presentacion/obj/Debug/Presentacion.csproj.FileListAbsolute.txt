@@ -1,0 +1,2 @@
+c:\users\pc01\documents\visual studio 2013\Projects\Presentacion\Presentacion\bin\Debug\Presentacion.exe.config
+G:\Presentacion\Presentacion\bin\Debug\Presentacion.exe.config
